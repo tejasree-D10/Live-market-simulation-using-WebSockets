@@ -1,0 +1,1 @@
+StockSage – A real-time trading simulation platform with interactive dashboards, live price feeds, mock IPOs, secure JWT authentication, and chart-driven portfolio insights. Built using MERN, WebSockets, and Chart.js.
